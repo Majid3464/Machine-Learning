@@ -6,7 +6,9 @@
 
 ### 2. Linear Regression
 • Feature engineering for a house price dataset with 2919 entries and 80 features. 
+
 • Appliedthemodels: Linearregression, Elastic-net, Lasso, Ridge, Lassolars, Bayesianridge, Kernelridge, Kneighborsregressor,cross-validatedthemodelsandfoundidealhyper-parameterstominimizecostfunctions. 
+
 • Predicted sales prices using RFs and Gradient boosting with more than 90% accuracy.
 
 ### 3. Nueral-Networks
