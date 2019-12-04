@@ -13,8 +13,8 @@
 • Applied both parametric and non-parametric classiﬁers such as Bagging classiﬁer, K-neighbors classiﬁer, Decision tree classiﬁer and Neural networks to predict diabetes.
 • Optimized the models and predicted diabetes to 90 percent accuracy.
 
-### Regularization
+### 4. Regularization
 • A comprehensive guide to Understading the concept of regularization, Gradient descent and Mathematics behind them
 
-### logistic-regression
+### 5. logistic-regression
 • Improved heart disease prediction in the Logistic regression algorithm by 18% using Haar wavelets
