@@ -13,7 +13,9 @@
 
 ### 3. Nueral-Networks
 • Dataanalysis(transformation,visualizationandwrangling)forclassiﬁcationproblemsusingadiabetesdataset. 
+
 • Applied both parametric and non-parametric classiﬁers such as Bagging classiﬁer, K-neighbors classiﬁer, Decision tree classiﬁer and Neural networks to predict diabetes.
+
 • Optimized the models and predicted diabetes to 90 percent accuracy.
 
 ### 4. Regularization
