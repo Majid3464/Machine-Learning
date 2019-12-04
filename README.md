@@ -7,12 +7,12 @@
 ### 2. Linear Regression
 • Feature engineering for a house price dataset with 2919 entries and 80 features. 
 
-• Appliedthemodels: Linearregression, Elastic-net, Lasso, Ridge, Lassolars, Bayesianridge, Kernelridge, Kneighborsregressor,cross-validatedthemodelsandfoundidealhyper-parameterstominimizecostfunctions. 
+• Applied the models: Linear regression, Elastic-net, Lasso, Ridge, Lassolars, Bayesian ridge, Kernel ridge, Kneighbors regressor,cross validated the models and found ideal hyper-parameters to minimize cost functions. 
 
 • Predicted sales prices using RFs and Gradient boosting with more than 90% accuracy.
 
 ### 3. Nueral-Networks
-• Dataanalysis(transformation,visualizationandwrangling)forclassiﬁcationproblemsusingadiabetesdataset. 
+• Dataanalysis(transformation,visualization and wrangling)for classiﬁcation problems using adiabetes dataset. 
 
 • Applied both parametric and non-parametric classiﬁers such as Bagging classiﬁer, K-neighbors classiﬁer, Decision tree classiﬁer and Neural networks to predict diabetes.
 
