@@ -12,7 +12,7 @@
 • Predicted sales prices using RFs and Gradient boosting with more than 90% accuracy.
 
 ### 3. Nueral-Networks
-• Dataanalysis(transformation,visualization and wrangling)for classiﬁcation problems using adiabetes dataset. 
+• Data analysis(transformation,visualization and wrangling)for classiﬁcation problems using adiabetes dataset. 
 
 • Applied both parametric and non-parametric classiﬁers such as Bagging classiﬁer, K-neighbors classiﬁer, Decision tree classiﬁer and Neural networks to predict diabetes.
 
