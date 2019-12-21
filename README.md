@@ -19,7 +19,7 @@
 • Optimized the models and predicted diabetes to 96 percent accuracy.
 
 ### 4. Regularization
-• A comprehensive guide to Understading the concept of regularization, Gradient descent and Mathematics behind them.
+• A comprehensive guide to understading the concept of regularization, Gradient descent and Mathematics behind them.
 
 ### 5. logistic-regression
 • Improved heart disease prediction in Logistic regression algorithm by 18% using Haar wavelets.
